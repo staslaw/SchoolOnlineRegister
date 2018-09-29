@@ -8,10 +8,17 @@ Application with access for three types of users:
   
   ![](images/admin1.png)
   
+  ![](images/admin2.png)
+  
   2. Teacher - browses the news to teachers and introduces grades to classes that teach.
   - creates a series of grades and determines their weights and then adds grades to each student
+  
+  ![](images/teacher.png)
+  
   3. Student - browses the news to students and his grades.
   - sees the class average and the his weighted average of each subject
+  
+  ![](images/student.png)
 
 The application uses:
   1. Spring boot libraries: validation, data-jpa, security, web.
